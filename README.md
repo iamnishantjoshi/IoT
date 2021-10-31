@@ -8,3 +8,5 @@ This project is about connecting an appliance to internet for automation with us
 Replace the ssid and password values in the script as per your configuration.
 
 The devices needed will be listed below and the guide will be posted soon.....
+
+# Languages used to code aspects of the project
